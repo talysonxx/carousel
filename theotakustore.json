@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "name": "My Hero Academy",
+        "oldPrice": 200.00,
+        "currentPrice": 170.99,
+        "link": "https://ae01.alicdn.com/kf/Ha2071f087db94d118af691404d43101eq/Lewd-Pink-Sad-Japanese-Anime-Aesthetic-My-Hero-Academy-T-Shirt-Summer-Men-TShirt-Harajuku-Streetwear.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": "2",
+        "name": "Hatsune Miku",
+        "oldPrice": 400,
+        "currentPrice": 350.99,
+        "link": "https://besteeshops.com/wp-content/uploads/2020/11/Anime-Girl-Its-Not-Cartoons-Its-Anime-Unisex.png"
+    },
+    {
+        "id": "3",
+        "name": "Angel Beats",
+        "oldPrice": 300.00,
+        "currentPrice": 250.99,
+        "link": "https://ae01.alicdn.com/kf/H0dcc4bfde4db49dc81ac8ef793812cf3e/SONSPEE-T-shirt-Harajuku-Anime-Angel-Beats-Girl-Tees-Tops-3d-Idol-Girl-Shirts-Print-Men.jpg_Q90.jpg_.webp"
+    },
+    {
+        "id": "4",
+        "name": "Ecchi",
+        "oldPrice": 400.00,
+        "currentPrice": 385.99,
+        "link": "https://ae01.alicdn.com/kf/Hf9d6531a72934f8bab163edb0fbb2929T/Camiseta-para-meninas-anime-ecchi-waifu-material-ahegao-lewd-otaku-hentai-algod-o-t-camisa-masculina.jpg_q50.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Zero Two",
+        "oldPrice": 700.00,
+        "currentPrice": 555.99,
+        "link": "https://cf.shopee.ph/file/b18547389565e622ce9c1d7d4a6293db"
+    },
+    {
+        "id": "6",
+        "name": "Ecchi",
+        "oldPrice": 200.00,
+        "currentPrice": 170.99,
+        "link": "https://canary.contestimg.wish.com/api/webimage/5d23157498de332512e6a03d-large.jpg?cache_buster=3fee0da504f5c24f33c259e62a3b1602"
+    },
+    {
+        "id": "7",
+        "name": "I'mA - s c i e n t i s t",
+        "oldPrice": 100,
+        "currentPrice": 170.99,
+        "link": "scientists"
+    }
+]
+

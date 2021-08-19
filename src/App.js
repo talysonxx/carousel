@@ -5,7 +5,7 @@ import tos from './static/tos.json'
 
 
 export default function App() {
-  const [data, setData] = useState([])
+  // const [data, setData] = useState([])
   const carousel = useRef(null)
 
   useEffect(() => {

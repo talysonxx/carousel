@@ -16,27 +16,31 @@ body{
     align-items: center;
 }
 .container{
-    max-width: 75vw;
+    max-width: 60vw;
 }
 .container .logo{
-    width: 400px;
+    height: 150px;
 }
 .container .carousel{
     display: flex;
     overflow-x: auto;
-    /* scroll suave */
     scroll-behavior: smooth;
+    overflow: hidden;
 }
+/* .container .carousel::-webkit-scrollbar{
+    display: none;
+} */
 .container .carousel .item{
     background-color: #ffff; 
     margin: 10px;
     padding: 10px;
-    width: 260px;
+    width: 255px;
     border: 1px solid gray;
     display: flex;
     align-items: center;
     flex-direction: column;
     border-radius: 4px;
+    flex:none
 }
 .container .carousel .item .itemImage{
     width: 250px;
@@ -70,4 +74,18 @@ body{
 .container .carousel .item .itemInfo .itemCurrentPrice:hover{
     cursor: pointer;
     background-color: #c40571;
+}
+.container .buttons{
+    text-align: center;
+}
+.container button{
+    border: none;
+    background-color: transparent;
+    font-size: 1.5em;
+    color: #79608b;
+    margin: 5px 10px;
+}
+.container button:hover{
+    cursor: pointer;
+    color: #6b4d80;
 }

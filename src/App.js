@@ -8,7 +8,10 @@ export default function App() {
 
   return (
     <>
-      si
+      <span style={{fontSize: '2rem'}}>
+        <i class="fas fa-arrow-right"></i>
+        <i class="fas fa-arrow-left"></i>
+      </span>
     </>
   )
 }
